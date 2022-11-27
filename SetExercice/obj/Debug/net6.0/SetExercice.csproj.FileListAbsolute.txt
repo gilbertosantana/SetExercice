@@ -1,0 +1,15 @@
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.csproj.AssemblyReference.cache
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.AssemblyInfoInputs.cache
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.AssemblyInfo.cs
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\bin\Debug\net6.0\SetExercice.exe
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\bin\Debug\net6.0\SetExercice.deps.json
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\bin\Debug\net6.0\SetExercice.runtimeconfig.json
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\bin\Debug\net6.0\SetExercice.dll
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\bin\Debug\net6.0\SetExercice.pdb
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.dll
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\refint\SetExercice.dll
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.pdb
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\SetExercice.genruntimeconfig.cache
+C:\Users\Jessica\source\repos\SetExercice\SetExercice\obj\Debug\net6.0\ref\SetExercice.dll
