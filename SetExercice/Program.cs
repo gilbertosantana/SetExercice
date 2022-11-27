@@ -5,7 +5,7 @@ HashSet<LogRecord> set = new HashSet<LogRecord>(); ;
 Console.Write("Enter file full path: ");
 
 string path = @Console.ReadLine()!;
-#if !DEFAULT
+
 try
 {
     using(StreamReader sr = File.OpenText(path))
